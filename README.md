@@ -1,2 +1,2 @@
-# Mini-Projects
-BDA, NLP, BC AND ML
+# NLP Mini Project
+WhatsApp Chat Sentiment Analysis using Python and its libraries
